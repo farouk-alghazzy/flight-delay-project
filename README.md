@@ -2,6 +2,9 @@
 
 This project explores flight delay patterns and builds a model to predict whether a flight will arrive on time or not, using a 3-million-row dataset from the U.S. Department of Transportation (2019–2023).
 
+> ⚠️ **Note:** Due to GitHub's file size restrictions, the raw dataset (`flights_sample_3m.csv`) is not included in this repository.  
+> Please download it manually from [this Kaggle dataset](https://www.kaggle.com/datasets/patrickz/flight-delay-and-cancellation-20192023)
+
 ## Dataset
 - Source: [Kaggle - Flight Delay and Cancellation Dataset (2019–2023)](https://www.kaggle.com/datasets/patrickz/flight-delay-and-cancellation-20192023)
 - Size: 3,000,000 rows
