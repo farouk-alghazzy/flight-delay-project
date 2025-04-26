@@ -1,0 +1,4 @@
+data/raw/flights_sample_3m.csv
+venv/
+__pycache__/
+.DS_Store
