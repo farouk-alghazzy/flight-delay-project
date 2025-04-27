@@ -24,4 +24,9 @@ This project explores flight delay patterns and builds a model to predict whethe
 - Python, Pandas, Matplotlib, Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Results
+- Logistic Regression Accuracy: ~93.7%
+- Random Forest (after tuning) Accuracy: ~93.8%
+- Key feature influencing delays: Departure Delay (DEP_DELAY)
 ---
