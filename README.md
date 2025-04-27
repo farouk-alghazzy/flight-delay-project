@@ -1,6 +1,6 @@
 # Flight Delay Prediction Project
 
-This project explores flight delay patterns and builds a model to predict whether a flight will arrive on time or not, using a 3 million row dataset from the U.S. Department of Transportation (2019–2023). Now deployed with a simple interactive app built with Streamlit.
+This Python project explores flight delay patterns and builds a model to predict whether a flight will arrive on time or not, using a 3 million row dataset from the U.S. Department of Transportation (2019–2023). Now deployed with a simple interactive app built with Streamlit.
 
 > **Note:** Due to GitHub's file size restrictions, the raw dataset (`flights_sample_3m.csv`) is not included in this repository. Please download it manually from the source.
 
