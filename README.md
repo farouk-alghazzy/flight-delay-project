@@ -21,7 +21,7 @@ This project explores flight delay patterns and builds a model to predict whethe
 - Accuracy, precision, recall evaluation
 
 ## Tools Used
-- Python, Pandas, Matplotlib, Seaborn
+- Python, Pandas, Matplotlib, Seaborn, Streamlit
 - Scikit-learn
 - Jupyter Notebook
 
