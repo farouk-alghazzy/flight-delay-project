@@ -1,3 +1,5 @@
+# Live Demo: https://flight-delay-predict.streamlit.app/
+
 # Flight Delay Prediction Project
 
 This Python project explores flight delay patterns and builds a model to predict whether a flight will arrive on time or not, using a 3 million row dataset from the U.S. Department of Transportation (2019–2023). Now deployed with a simple interactive app built with Streamlit.
